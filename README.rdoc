@@ -1,0 +1,7 @@
+== Summary
+
+Brainfuck (http://en.wikipedia.org/wiki/Brainfuck) interpreter written in ruby.
+
+== Usage
+
+  ./run.rb example/hello_world.bf
